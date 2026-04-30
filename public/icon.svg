@@ -1,0 +1,16 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- White circular background -->
+  <circle cx="32" cy="32" r="32" fill="white" />
+  
+  <!-- Left arm of the V (Cyan) -->
+  <line x1="16" y1="22" x2="24" y2="42" stroke="#00B4D8" stroke-width="3" stroke-linecap="round" />
+  
+  <!-- Orange Swoosh (Top/Left of the curve) -->
+  <path d="M22 42 C 18 22, 28 18, 42 22" stroke="#F97316" stroke-width="3.5" stroke-linecap="round" fill="none" />
+  
+  <!-- Cyan Swoosh (Bottom/Right of the curve) -->
+  <path d="M25 44 C 21 26, 30 22, 44 26" stroke="#00B4D8" stroke-width="3.5" stroke-linecap="round" fill="none" />
+  
+  <!-- VANTAGE text -->
+  <text x="26" y="36" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="#0F172A" letter-spacing="0.5">VANTAGE</text>
+</svg>
