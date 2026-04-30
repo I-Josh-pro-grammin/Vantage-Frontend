@@ -73,7 +73,7 @@ function App() {
               </a>
             </div>
 
-            <div className="features grid" style={{ gridTemplateColumns: 'repeat(2, 1fr)', gap: '1.5rem', marginTop: '2rem' }}>
+            <div className="features grid" id="app-details" style={{ gridTemplateColumns: 'repeat(2, 1fr)', gap: '1.5rem', marginTop: '2rem' }}>
               <div className="flex items-center gap-4">
                 <div style={{ background: 'rgba(150, 60, 255, 0.1)', padding: '0.8rem', borderRadius: '12px', color: 'var(--primary)' }}>
                   <Zap size={24} />
